@@ -1,0 +1,14 @@
+c:\users\nagibin\source\repos\Бойер-Мур\Бойер-Мур\bin\Debug\Бойер-Мур.exe.config
+c:\users\nagibin\source\repos\Бойер-Мур\Бойер-Мур\bin\Debug\Бойер-Мур.exe
+c:\users\nagibin\source\repos\Бойер-Мур\Бойер-Мур\bin\Debug\Бойер-Мур.pdb
+c:\users\nagibin\source\repos\Бойер-Мур\Бойер-Мур\obj\Debug\Бойер-Мур.csprojResolveAssemblyReference.cache
+c:\users\nagibin\source\repos\Бойер-Мур\Бойер-Мур\obj\Debug\Бойер-Мур.csproj.CoreCompileInputs.cache
+c:\users\nagibin\source\repos\Бойер-Мур\Бойер-Мур\obj\Debug\Бойер-Мур.exe
+c:\users\nagibin\source\repos\Бойер-Мур\Бойер-Мур\obj\Debug\Бойер-Мур.pdb
+C:\Users\Nagibin\source\repos\Semestry\Бойер-Мур\Бойер-Мур\bin\Debug\Бойер-Мур.exe.config
+C:\Users\Nagibin\source\repos\Semestry\Бойер-Мур\Бойер-Мур\bin\Debug\Бойер-Мур.exe
+C:\Users\Nagibin\source\repos\Semestry\Бойер-Мур\Бойер-Мур\bin\Debug\Бойер-Мур.pdb
+C:\Users\Nagibin\source\repos\Semestry\Бойер-Мур\Бойер-Мур\obj\Debug\Бойер-Мур.csprojResolveAssemblyReference.cache
+C:\Users\Nagibin\source\repos\Semestry\Бойер-Мур\Бойер-Мур\obj\Debug\Бойер-Мур.csproj.CoreCompileInputs.cache
+C:\Users\Nagibin\source\repos\Semestry\Бойер-Мур\Бойер-Мур\obj\Debug\Бойер-Мур.exe
+C:\Users\Nagibin\source\repos\Semestry\Бойер-Мур\Бойер-Мур\obj\Debug\Бойер-Мур.pdb
